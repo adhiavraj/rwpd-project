@@ -1289,7 +1289,7 @@ section {
   margin: 0 2px;
 } */
 
-.container-fluid .view{
+.view{
   background-color:rgb(183, 126, 237);
   width: 30%;
   padding-left: 12px;
@@ -1297,7 +1297,7 @@ section {
   border-radius: 3px;
 }
 
-.container-fluid .view:hover{
+.view:hover{
   background-color:rgb(81, 6, 150);
   width: 40%;
   font-size: larger;
