@@ -1289,16 +1289,15 @@ section {
   margin: 0 2px;
 } */
 
- .view{
+.container-fluid .view{
   background-color:rgb(183, 126, 237);
   width: 30%;
-  /* height: 40px; */
   padding-left: 12px;
   color: #fff;
   border-radius: 3px;
 }
 
-.view:hover{
+.container-fluid .view:hover{
   background-color:rgb(81, 6, 150);
   width: 40%;
   font-size: larger;
