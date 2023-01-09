@@ -1291,7 +1291,7 @@ section {
 
 .view{
   background-color:rgb(183, 126, 237);
-  width: 30%;
+  width: 50%;
   padding-left: 12px;
   color: #fff;
   border-radius: 3px;
@@ -1299,7 +1299,7 @@ section {
 
 .view:hover{
   background-color:rgb(81, 6, 150);
-  width: 40%;
+  width: 70%;
   font-size: larger;
   padding-left: 20px;
   color: #fff;
@@ -1311,21 +1311,21 @@ section {
 @keyframes view {
   0% {
   background-color:rgb(183, 126, 237);
-  width: 30%;
+  width: 50%;
   padding-left: 12px;
   color: #fff;
   border-radius: 7px;
   }
   50%{
   background-color:rgb(113, 24, 197);
-  width: 37%;
+  width: 60%;
   padding-left: 18px;
   color: #fff;
   border-radius: 7px; 
   }
   100%{
   background-color:rgb(76, 6, 142);
-  width: 42%;
+  width: 70%;
   padding-left: 22px;
   color: #fff;
   border-radius: 7px; 
@@ -1867,4 +1867,10 @@ section {
   background: #1c84e3;
   color: #fff;
   text-decoration: none;
+}
+
+#cpy{
+  justify-content: center;
+  align-items: center;
+  margin-left: 38%;
 }
